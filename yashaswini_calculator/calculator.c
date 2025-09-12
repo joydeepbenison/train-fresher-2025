@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+
+//Main function
 int main() {
     char op;
     double num1, num2;
@@ -10,6 +12,7 @@ int main() {
     printf("Enter two numbers: ");
     scanf("%lf %lf", &num1, &num2);
 
+    //switch case
     switch(op) {
         case '+':
             printf("Result = %.2lf\n", num1 + num2);
