@@ -1,4 +1,4 @@
-alculator: calculator.o
+calculator: calculator.o
         gcc -o calculator calculator.o
 
 calculator.o: calculator.c
