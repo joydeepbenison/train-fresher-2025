@@ -1,4 +1,4 @@
-//program calculator
+//Adding comment in this code
 #include <stdio.h>
 
 int main() {
