@@ -1,6 +1,6 @@
 #include <stdio.h>
 //Alekhya Code change
-//changes in code...
+//main function
 
 int main() {
     char operator;
