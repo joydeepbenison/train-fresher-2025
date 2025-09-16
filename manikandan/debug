@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main() {
+    char *c = NULL;        // Pointer points to nothing (NULL)
+
+    *c = 'A';               // ❌ Writing to NULL -> segmentation fault
+
+    printf("%c\n", *c);
+    return 0;
+}
+
