@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-//added a testcomment in calculator.c//
+//Main function comments
 int main() {
     char op;
     double num1, num2;
