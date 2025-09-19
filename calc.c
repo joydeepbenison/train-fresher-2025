@@ -1,4 +1,5 @@
-//Adding comment in this code..........
+
+//Add some comments in my code
 #include <stdio.h>
 
 int main() {
