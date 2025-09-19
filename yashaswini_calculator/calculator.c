@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-//Main function
+//Main function comments
 int main() {
     char op;
     double num1, num2;

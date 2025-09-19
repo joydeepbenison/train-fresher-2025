@@ -1,5 +1,7 @@
 #include <stdio.h>
-//Alekhya Code changes
+//Alekhya Code change
+//main function
+
 int main() {
     char operator;
     double num1, num2, res;
