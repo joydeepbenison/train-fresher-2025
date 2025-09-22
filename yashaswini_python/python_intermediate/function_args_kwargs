@@ -1,0 +1,6 @@
+def student_info(*args, **kwargs):
+    print("Positional args:", args)
+    print("Keyword args:", kwargs)
+
+student_info("Alice", "Bob", age=20, grade="A")
+
