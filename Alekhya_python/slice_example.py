@@ -1,0 +1,12 @@
+x="welcome"
+print(x[: :])
+print(x[0: :1])
+print(x[:])
+print(x[: :-1])
+print(x[-1:2:-1])
+print(x[1:5:2])
+print(x[1:5])
+print(x[1:])
+print(x[-1:])
+print(x[:-1])
+print(x[3:5])
